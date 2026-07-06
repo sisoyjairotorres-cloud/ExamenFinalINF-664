@@ -4,7 +4,7 @@ descripcion = input("Explicate en una breve descripcion: ")
 
 def presentar(mi_nombre,mi_pais,mi_descripcion):
             print("El usuario " 
-                + str(mi_nombre) + " vieve en " + str(mi_pais) + " se describio a si mismo como: "
+                + str(mi_nombre) + " vieve en " + str(mi_pais) + ", se describio a si mismo como: "
                 + str(mi_descripcion))
             return
 presentar(nombre,pais,descripcion)
